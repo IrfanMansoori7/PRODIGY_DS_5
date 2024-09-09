@@ -1,0 +1,5 @@
+In this project, we analyzed traffic accident data to identify patterns related to road conditions, weather, and time of day. We investigated how these factors impact accident severity and frequency. The dataset used was a random sample as the provided dataset was private and inaccessible.
+
+We created interactive maps using Folium in Google Colab to visualize accident locations and hotspots. The maps were designed to focus on land-based locations, addressing inaccuracies where some points appeared in the ocean. To ensure accuracy, we filtered out oceanic data and explored alternative visualization methods.
+
+Overall, we successfully conducted the necessary analyses and visualizations to meet the project’s objectives, providing insights into traffic accident patterns and identifying high-risk areas.
